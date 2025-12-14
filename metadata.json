@@ -1,0 +1,7 @@
+{
+  "name": "VisionCore Detect",
+  "description": "High-performance real-time object detection application using TensorFlow.js. Features 30+ FPS detection, smooth rendering, and efficient resource management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
